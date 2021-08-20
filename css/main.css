@@ -58,3 +58,13 @@ li {
   background: #ede3db;
   padding: 1em;
 }
+
+a {
+  border-radius: 8px;
+  background: #623b0c;
+  padding: .6em;
+  color: #fff;
+  justify-content: space-between;
+  text-decoration: none;
+  margin-top: auto;
+}
