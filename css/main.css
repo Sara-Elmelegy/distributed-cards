@@ -23,6 +23,8 @@ html {
 
 body {
   padding: .75em;
+  margin: 0;
+  background-color: #fff;
 }
 
 h1 {
