@@ -64,6 +64,9 @@ a {
   background: #623b0c;
   padding: .6em;
   color: #fff;
+  justify-content: space-between;
+  text-decoration: none;
+  margin-top: auto;
 }
 
 img {
