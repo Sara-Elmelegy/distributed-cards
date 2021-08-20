@@ -68,3 +68,8 @@ a {
   text-decoration: none;
   margin-top: auto;
 }
+
+img {
+  width: 100%;
+  display: block;
+}
