@@ -73,3 +73,12 @@ img {
   width: 100%;
   display: block;
 }
+
+ul {
+  grid-column: auto;
+}
+
+p {
+  padding-top: .4rem;
+  padding-bottom: .4rem;
+}
